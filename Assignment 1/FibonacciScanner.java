@@ -1,8 +1,7 @@
-/*
-Vaibhav Sharma
-AIML-B2
+/*Sameer Khatwani
+AIML-B1
 2022-26
-22070126125
+22070126099
 */
 package Assign1;
 
