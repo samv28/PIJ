@@ -1,5 +1,5 @@
 // UserInput.java
-package Assign1;
+package Assignment_1;
 
 import java.util.Scanner;
 
