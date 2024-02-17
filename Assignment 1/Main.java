@@ -3,7 +3,7 @@ AIML-B1
 2022-26
 22070126099
 */
-package Assign1;
+package Assignment_1;
 
 public class Main {
     public static void main(String[] args) {
