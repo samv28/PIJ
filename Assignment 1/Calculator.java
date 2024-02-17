@@ -1,5 +1,5 @@
 // Calculator.java
-package Assign1;
+package Assignment 1;
 
 import java.util.Arrays;
 
