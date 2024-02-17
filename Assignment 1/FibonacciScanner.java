@@ -3,7 +3,7 @@ AIML-B1
 2022-26
 22070126099
 */
-package Assignment 1;
+package Assignment_1;
 
 import java.util.Scanner;
 
